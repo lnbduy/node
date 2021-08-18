@@ -30,3 +30,7 @@
   - HttOnly
   - Domain
   - Expire
+# Tools for testing
+## OWASP dependency check
+## Snyk find vulnerabilities https://snyk.io/
+## Penetration testing with Burp https://portswigger.net/burp
